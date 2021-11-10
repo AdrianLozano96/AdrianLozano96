@@ -1,4 +1,4 @@
-### Hi there  I'm Adrian Lozano Lastras👋 Superior Technician in Electronic Maintenance, it specialist & programmer
+### Hi there  I'm Adrian Lozano Lastras👋 Superior Technician in Electronic Maintenance, IT specialist & Programmer
 
 <!--
 **AdrianLozano96/AdrianLozano96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
