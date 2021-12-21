@@ -56,7 +56,4 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
-
-
-
-
+![:AdrianLozano96](https://count.getloli.com/get/@:AdrianLozano96)
