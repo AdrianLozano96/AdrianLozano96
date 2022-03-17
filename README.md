@@ -7,9 +7,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=AdrianLozano96.AdrianLozano96)
 
 ### Superior Technician in Electronic Maintenance 🎓
-### Superior Technician in D.A.M (cross-platform development applications) 👨‍💻
 ### IT specialist 💻
-### Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+### Superior Technician in D.A.M (cross-platform development applications) 👨‍💻
 
 <br />
 
