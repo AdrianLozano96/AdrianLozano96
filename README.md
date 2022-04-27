@@ -58,9 +58,3 @@
         <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianLozano96&hide=html&border_color=61dafb&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
         <img height="225px" src="https://github-readme-stats.vercel.app/api?username=AdrianLozano96&hide_title=true&border_color=61dafb&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
 </p>
-
-<br><br><br><br><br><br><br><br><br><br>
-
-
-![:AdrianLozano96](https://count.getloli.com/get/@:AdrianLozano96)
-
