@@ -19,7 +19,7 @@
 <code><img height="50"src="https://camo.githubusercontent.com/62ef05f988d169ece8b5aa2ec612ee4b679a3863fe586d4a4af9aa946955e8a0/68747470733a2f2f7777772e736f6d6d656c6965726465636166652e636f6d2f323031392f77702d636f6e74656e742f75706c6f6164732f323030392f30362f6a6176612d6c6f676f312d312e706e67"></code>                          
 <code><img height="50" src="https://camo.githubusercontent.com/2fcfe10663dcd1babe7f017cc67308f01aadacab8afba263ac9c66b74f3d99ac/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37342f4b6f746c696e5f49636f6e2e706e672f37363870782d4b6f746c696e5f49636f6e2e706e67"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/90937483/141752846-5629c1ae-1a7e-4c86-a558-7b4ee68cc26f.png"></code>
-<code><imgheight="50"src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"></code>
 </p>
 <br>
 <p align="center">Front-End:&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -28,7 +28,7 @@
 <code><img height="50" src="https://user-images.githubusercontent.com/900523/101620109-0e5e1f00-3a0c-11eb-8c40-b1d9a8bb3c4c.png"></code>
 </p>
 <br>
-<p align="center">  DataBases:&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">DataBases:&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="50" src="https://camo.githubusercontent.com/140d25921c0b5130c3b3e6637be9f25490280185ec46f54c46987e88b82b03b6/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6d7973716c2d31392d313137343933392e706e67"></code>
 <code><img height="50" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-5-1175140.png"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/2fd20815f3b0a17768b1ee8429517c9f2e6ad5943681fbf09b8afed5fc72e306/68747470733a2f2f677265656e7769726569742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30352f73716c2d7365727665722d65787072657373312e706e67"></code>
